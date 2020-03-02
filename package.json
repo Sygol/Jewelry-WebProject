@@ -1,0 +1,23 @@
+{
+  "name": "jewelry_website",
+  "version": "1.0.0",
+  "description": "web developer test",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  },
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sygol/Jewelry-Website.git"
+  },
+  "author": "Jakub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sygol/Jewelry-Website/issues"
+  },
+  "homepage": "https://github.com/Sygol/Jewelry-Website#readme"
+}
